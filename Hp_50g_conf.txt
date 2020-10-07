@@ -1,0 +1,32 @@
+Mode -> 
+	Operation Mode
+		->RPN
+	CAS 
+		->Complex
+	FLAGS
+		->27
+		->34
+		->54
+		->56
+		->57
+		->72
+		->73
+		->80
+		->82
+		->90
+		->95
+		->103
+		->105
+		->117
+
+		
+Diminuir contraste
+	(ON) + (-)
+
+Guardar configs
+	RCLF 'FLAGS' STO
+	Copiar arquivos de HOME para SDCard
+	
+Restaurar
+	'FLAGS' RCL STOF
+	Mover CST e Variaveis para pasta HOME (Teclas custom)
