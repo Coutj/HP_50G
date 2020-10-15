@@ -29,4 +29,5 @@ Guardar configs
 	
 Restaurar
 	'FLAGS' RCL STOF
+	RCL 'BKP'
 	Mover CST e Variaveis para pasta HOME (Teclas custom)
