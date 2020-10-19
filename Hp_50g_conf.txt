@@ -31,3 +31,17 @@ Restaurar
 	'FLAGS' RCL STOF
 	RCL 'BKP'
 	Mover CST e Variaveis para pasta HOME (Teclas custom)
+
+Resolver sistemas lineares
+
+	2x + 3y = 5
+	4x + 5y = 9
+
+	PGR -> TYPE -> 2 ARRY
+
+	x
+	y
+
+	2 Arry
+
+	S.SLV -> LINSO
