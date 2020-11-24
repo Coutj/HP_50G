@@ -30,6 +30,7 @@ Guardar configs
 Restaurar
 	'FLAGS' RCL STOF
 	RCL 'BKP'
+	Eval 'BKP'
 	Mover CST e Variaveis para pasta HOME (Teclas custom)
 
 Resolver sistemas lineares
